@@ -11,3 +11,6 @@
 [submodule "gDRstyle"]
 	path = gDRstyle
 	url = https://github.com/gdrplatform/gdrstyle
+[submodule "gDRutils"]
+	path = gDRutils
+	url = https://github.com/gdrplatform/gdrutils
