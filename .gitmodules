@@ -5,6 +5,9 @@
 [submodule "gDR"]
 	path = gDR
 	url = https://github.com/gdrplatform/gdr
+[submodule "gDRcore"]
+	path = gDRcore
+	url = https://github.com/gdrplatform/gdrcore
 [submodule "gDRimport"]
 	path = gDRimport
 	url = https://github.com/gdrplatform/gdrimport
